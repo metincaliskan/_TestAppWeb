@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebControlApp.Models.Entity;
+using TestAppWeb.Models.Entity;
 
-namespace WebControlApp.Models.Context
+namespace TestAppWeb.Models.Context
 {
     public class WebContext : DbContext
     {
